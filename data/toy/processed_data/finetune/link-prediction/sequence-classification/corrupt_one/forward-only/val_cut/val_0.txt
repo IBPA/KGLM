@@ -1,0 +1,9 @@
+path	label
+e2 r0 e0	1
+e1 r0 e0	0
+e4 r0 e0	0
+e3 r0 e0	0
+e2 r0 e0	1
+e2 r0 e1	0
+e2 r0 e4	0
+e2 r0 e3	0

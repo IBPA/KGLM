@@ -1,0 +1,6 @@
+original_name	processed_name	id
+divorcedWith	divorced with	r0
+daughterOf	daughter of	r1
+founderOf	founder of	r2
+bornIn	born in	r3
+locatedIn	located in	r4

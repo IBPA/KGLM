@@ -1,0 +1,7 @@
+head	relation	tail	label
+e0	r0	e2	1
+e1	r1	e0	1
+e1	r1	e2	1
+e1	r3	e4	1
+e2	r2	e3	1
+e3	r4	e4	1

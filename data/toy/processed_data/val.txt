@@ -1,0 +1,2 @@
+head	relation	tail	label
+e2	r0	e0	1

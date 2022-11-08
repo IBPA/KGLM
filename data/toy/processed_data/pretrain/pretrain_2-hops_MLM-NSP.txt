@@ -1,0 +1,61 @@
+next_sentence_label	path_1	path_2
+1	e0 r0 e2	e2 !r1 e1 r3 e4
+0	e0 r0 e2	e3 !r2 e2 !r0 e0
+1	e0 !r1 e1	e1 r1 e0 r0 e2
+0	e0 !r1 e1	e3 !r2 e2 !r0 e0
+1	e0 r0 e2 r2 e3	e3 !r2 e2
+0	e0 r0 e2 r2 e3	e4 !r3 e1
+1	e0 r0 e2 !r1 e1	e1 r1 e2
+0	e0 r0 e2 !r1 e1	e2 r2 e3 r4 e4
+1	e0 !r1 e1 r1 e2	e2 !r1 e1
+0	e0 !r1 e1 r1 e2	e4 !r4 e3 !r2 e2
+1	e0 !r1 e1 r3 e4	e4 !r4 e3 !r2 e2
+0	e0 !r1 e1 r3 e4	e2 r2 e3 r4 e4
+1	e1 r1 e0	e0 !r1 e1 r1 e2
+0	e1 r1 e0	e3 r4 e4
+1	e1 r1 e2	e2 r2 e3
+0	e1 r1 e2	e0 !r1 e1 r1 e2
+1	e1 r3 e4	e4 !r4 e3 !r2 e2
+0	e1 r3 e4	e3 !r2 e2 !r1 e1
+1	e1 r1 e0 r0 e2	e2 !r0 e0
+0	e1 r1 e0 r0 e2	e3 r4 e4
+1	e1 r1 e2 r2 e3	e3 r4 e4
+0	e1 r1 e2 r2 e3	e4 !r3 e1 r1 e0
+1	e1 r1 e2 !r0 e0	e0 r0 e2
+0	e1 r1 e2 !r0 e0	e3 !r2 e2 !r0 e0
+1	e1 r3 e4 !r4 e3	e3 !r2 e2 !r0 e0
+0	e1 r3 e4 !r4 e3	e4 !r3 e1
+1	e2 r2 e3	e3 !r2 e2 !r0 e0
+0	e2 r2 e3	e4 !r3 e1 r1 e0
+1	e2 !r0 e0	e0 !r1 e1
+0	e2 !r0 e0	e3 !r2 e2 !r0 e0
+1	e2 !r1 e1	e1 r1 e2 !r0 e0
+0	e2 !r1 e1	e4 !r3 e1
+1	e2 r2 e3 r4 e4	e4 !r4 e3
+0	e2 r2 e3 r4 e4	e2 !r0 e0
+1	e2 !r0 e0 !r1 e1	e1 r1 e0
+0	e2 !r0 e0 !r1 e1	e3 !r2 e2 !r0 e0
+1	e2 !r1 e1 r1 e0	e0 !r1 e1
+0	e2 !r1 e1 r1 e0	e3 !r2 e2 !r0 e0
+1	e2 !r1 e1 r3 e4	e4 !r4 e3
+0	e2 !r1 e1 r3 e4	e1 r1 e0 r0 e2
+1	e3 r4 e4	e4 !r3 e1 r1 e2
+0	e3 r4 e4	e3 !r2 e2 !r0 e0
+1	e3 !r2 e2	e2 !r0 e0
+0	e3 !r2 e2	e3 !r2 e2 !r0 e0
+1	e3 r4 e4 !r3 e1	e1 r1 e0 r0 e2
+0	e3 r4 e4 !r3 e1	e4 !r3 e1
+1	e3 !r2 e2 !r0 e0	e0 !r1 e1 r3 e4
+0	e3 !r2 e2 !r0 e0	e1 r1 e0 r0 e2
+1	e3 !r2 e2 !r1 e1	e1 r1 e0
+0	e3 !r2 e2 !r1 e1	e2 r2 e3 r4 e4
+1	e4 !r3 e1	e1 r3 e4 !r4 e3
+0	e4 !r3 e1	e2 r2 e3 r4 e4
+1	e4 !r4 e3	e3 !r2 e2 !r0 e0
+0	e4 !r4 e3	e4 !r4 e3 !r2 e2
+1	e4 !r3 e1 r1 e0	e0 !r1 e1 r1 e2
+0	e4 !r3 e1 r1 e0	e2 r2 e3 r4 e4
+1	e4 !r3 e1 r1 e2	e2 !r0 e0 !r1 e1
+0	e4 !r3 e1 r1 e2	e1 r3 e4
+1	e4 !r4 e3 !r2 e2	e2 !r0 e0
+0	e4 !r4 e3 !r2 e2	e4 !r4 e3

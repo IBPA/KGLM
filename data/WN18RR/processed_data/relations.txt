@@ -1,0 +1,12 @@
+original_name	processed_name	id
+_member_of_domain_usage	member of domain usage	r0
+_has_part	has part	r1
+_also_see	also see	r2
+_hypernym	hypernym	r3
+_synset_domain_topic_of	synset domain topic of	r4
+_derivationally_related_form	derivationally related form	r5
+_similar_to	similar to	r6
+_instance_hypernym	instance hypernym	r7
+_verb_group	verb group	r8
+_member_meronym	member meronym	r9
+_member_of_domain_region	member of domain region	r10
